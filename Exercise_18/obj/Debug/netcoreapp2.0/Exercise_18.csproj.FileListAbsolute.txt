@@ -1,0 +1,11 @@
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_18\bin\Debug\netcoreapp2.0\Exercise_18.deps.json
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_18\bin\Debug\netcoreapp2.0\Exercise_18.runtimeconfig.json
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_18\bin\Debug\netcoreapp2.0\Exercise_18.runtimeconfig.dev.json
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_18\bin\Debug\netcoreapp2.0\Exercise_18.dll
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_18\bin\Debug\netcoreapp2.0\Exercise_18.pdb
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_18\obj\Debug\netcoreapp2.0\Exercise_18.csproj.CoreCompileInputs.cache
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_18\obj\Debug\netcoreapp2.0\Exercise_18.AssemblyInfoInputs.cache
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_18\obj\Debug\netcoreapp2.0\Exercise_18.AssemblyInfo.cs
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_18\obj\Debug\netcoreapp2.0\Exercise_18.dll
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_18\obj\Debug\netcoreapp2.0\Exercise_18.pdb
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_18\obj\Debug\netcoreapp2.0\Exercise_18.csprojResolveAssemblyReference.cache

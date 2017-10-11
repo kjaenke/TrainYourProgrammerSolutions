@@ -1,0 +1,10 @@
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise\obj\Debug\netcoreapp2.0\Exercise_24.csproj.CoreCompileInputs.cache
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise\obj\Debug\netcoreapp2.0\Exercise_24.AssemblyInfoInputs.cache
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise\obj\Debug\netcoreapp2.0\Exercise_24.AssemblyInfo.cs
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise\bin\Debug\netcoreapp2.0\Exercise_24.deps.json
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise\bin\Debug\netcoreapp2.0\Exercise_24.runtimeconfig.json
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise\bin\Debug\netcoreapp2.0\Exercise_24.runtimeconfig.dev.json
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise\bin\Debug\netcoreapp2.0\Exercise_24.dll
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise\bin\Debug\netcoreapp2.0\Exercise_24.pdb
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise\obj\Debug\netcoreapp2.0\Exercise_24.dll
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise\obj\Debug\netcoreapp2.0\Exercise_24.pdb

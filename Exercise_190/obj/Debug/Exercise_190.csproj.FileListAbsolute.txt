@@ -1,0 +1,10 @@
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_190\bin\Debug\Exercise_190.exe.config
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_190\bin\Debug\Exercise_190.exe
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_190\bin\Debug\Exercise_190.pdb
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_190\obj\Debug\Exercise_190.csprojResolveAssemblyReference.cache
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_190\obj\Debug\Exercise_190.Form1.resources
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_190\obj\Debug\Exercise_190.Properties.Resources.resources
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_190\obj\Debug\Exercise_190.csproj.GenerateResource.Cache
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_190\obj\Debug\Exercise_190.csproj.CoreCompileInputs.cache
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_190\obj\Debug\Exercise_190.exe
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_190\obj\Debug\Exercise_190.pdb
