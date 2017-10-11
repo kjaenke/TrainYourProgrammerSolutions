@@ -1,0 +1,13 @@
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammer\TrainYourProgrammer\bin\Debug\TrainYourProgrammer.exe.config
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammer\TrainYourProgrammer\bin\Debug\TrainYourProgrammer.exe
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammer\TrainYourProgrammer\bin\Debug\TrainYourProgrammer.pdb
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammer\TrainYourProgrammer\obj\Debug\TrainYourProgrammer.csprojResolveAssemblyReference.cache
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammer\TrainYourProgrammer\obj\Debug\TrainYourProgrammer.exe
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammer\TrainYourProgrammer\obj\Debug\TrainYourProgrammer.pdb
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\TrainYourProgrammer\bin\Debug\TrainYourProgrammer.exe.config
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\TrainYourProgrammer\bin\Debug\TrainYourProgrammer.exe
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\TrainYourProgrammer\bin\Debug\TrainYourProgrammer.pdb
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\TrainYourProgrammer\obj\Debug\TrainYourProgrammer.csprojResolveAssemblyReference.cache
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\TrainYourProgrammer\obj\Debug\TrainYourProgrammer.csproj.CoreCompileInputs.cache
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\TrainYourProgrammer\obj\Debug\TrainYourProgrammer.exe
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\TrainYourProgrammer\obj\Debug\TrainYourProgrammer.pdb
