@@ -1,0 +1,6 @@
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_41\obj\Debug\Exercise_41.csproj.CoreCompileInputs.cache
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_41\bin\Debug\Exercise_41.exe.config
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_41\bin\Debug\Exercise_41.exe
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_41\bin\Debug\Exercise_41.pdb
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_41\obj\Debug\Exercise_41.exe
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_41\obj\Debug\Exercise_41.pdb

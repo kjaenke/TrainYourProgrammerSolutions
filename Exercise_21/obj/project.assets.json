@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\kjaehnke\\projects\\_KJaenke\\TrainYourProgrammer\\Exercise_21\\Exercise_21.csproj",
+      "projectUniqueName": "C:\\Users\\kjaehnke\\projects\\KJaenke\\TrainYourProgrammerSolutions\\Exercise_21\\Exercise_21.csproj",
       "projectName": "Exercise_21",
-      "projectPath": "C:\\Users\\kjaehnke\\projects\\_KJaenke\\TrainYourProgrammer\\Exercise_21\\Exercise_21.csproj",
+      "projectPath": "C:\\Users\\kjaehnke\\projects\\KJaenke\\TrainYourProgrammerSolutions\\Exercise_21\\Exercise_21.csproj",
       "packagesPath": "C:\\Users\\kjaehnke\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kjaehnke\\projects\\_KJaenke\\TrainYourProgrammer\\Exercise_21\\obj\\",
+      "outputPath": "C:\\Users\\kjaehnke\\projects\\KJaenke\\TrainYourProgrammerSolutions\\Exercise_21\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

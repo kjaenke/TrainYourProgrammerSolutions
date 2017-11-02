@@ -1,0 +1,11 @@
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\ConsoleApp1\bin\Debug\netcoreapp2.0\Exercise_163.deps.json
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\ConsoleApp1\bin\Debug\netcoreapp2.0\Exercise_163.runtimeconfig.json
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\ConsoleApp1\bin\Debug\netcoreapp2.0\Exercise_163.runtimeconfig.dev.json
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\ConsoleApp1\bin\Debug\netcoreapp2.0\Exercise_163.dll
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\ConsoleApp1\bin\Debug\netcoreapp2.0\Exercise_163.pdb
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\ConsoleApp1\obj\Debug\netcoreapp2.0\Exercise_163.csproj.CoreCompileInputs.cache
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\ConsoleApp1\obj\Debug\netcoreapp2.0\Exercise_163.AssemblyInfoInputs.cache
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\ConsoleApp1\obj\Debug\netcoreapp2.0\Exercise_163.AssemblyInfo.cs
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\ConsoleApp1\obj\Debug\netcoreapp2.0\Exercise_163.dll
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\ConsoleApp1\obj\Debug\netcoreapp2.0\Exercise_163.pdb
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\ConsoleApp1\obj\Debug\netcoreapp2.0\Exercise_163.csprojResolveAssemblyReference.cache

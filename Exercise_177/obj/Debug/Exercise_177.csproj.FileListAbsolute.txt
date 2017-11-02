@@ -1,0 +1,14 @@
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_177\obj\Debug\Exercise_177.csprojResolveAssemblyReference.cache
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_177\obj\Debug\App.g.cs
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_177\obj\Debug\Exercise_177_MarkupCompile.cache
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_177\bin\Debug\Exercise_177.exe.config
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_177\bin\Debug\Exercise_177.exe
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_177\bin\Debug\Exercise_177.pdb
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_177\obj\Debug\MainWindow.baml
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_177\obj\Debug\MainWindow.g.cs
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_177\obj\Debug\Exercise_177.g.resources
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_177\obj\Debug\Exercise_177.Properties.Resources.resources
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_177\obj\Debug\Exercise_177.csproj.GenerateResource.Cache
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_177\obj\Debug\Exercise_177.csproj.CoreCompileInputs.cache
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_177\obj\Debug\Exercise_177.exe
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_177\obj\Debug\Exercise_177.pdb

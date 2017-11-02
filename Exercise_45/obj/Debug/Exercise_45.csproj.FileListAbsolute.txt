@@ -1,0 +1,6 @@
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_45\bin\Debug\Exercise_45.exe.config
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_45\bin\Debug\Exercise_45.exe
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_45\bin\Debug\Exercise_45.pdb
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_45\obj\Debug\Exercise_45.csproj.CoreCompileInputs.cache
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_45\obj\Debug\Exercise_45.exe
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_45\obj\Debug\Exercise_45.pdb
