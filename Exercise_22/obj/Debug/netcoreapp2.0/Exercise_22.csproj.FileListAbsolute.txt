@@ -9,3 +9,14 @@ C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_22\obj\Debug\ne
 C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_22\obj\Debug\netcoreapp2.0\Exercise_22.AssemblyInfo.cs
 C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_22\obj\Debug\netcoreapp2.0\Exercise_22.dll
 C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_22\obj\Debug\netcoreapp2.0\Exercise_22.pdb
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_22\bin\Debug\netcoreapp2.0\Exercise_22.deps.json
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_22\bin\Debug\netcoreapp2.0\Exercise_22.runtimeconfig.json
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_22\bin\Debug\netcoreapp2.0\Exercise_22.runtimeconfig.dev.json
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_22\bin\Debug\netcoreapp2.0\Exercise_22.dll
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_22\bin\Debug\netcoreapp2.0\Exercise_22.pdb
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_22\obj\Debug\netcoreapp2.0\Exercise_22.csprojResolveAssemblyReference.cache
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_22\obj\Debug\netcoreapp2.0\Exercise_22.csproj.CoreCompileInputs.cache
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_22\obj\Debug\netcoreapp2.0\Exercise_22.AssemblyInfoInputs.cache
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_22\obj\Debug\netcoreapp2.0\Exercise_22.AssemblyInfo.cs
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_22\obj\Debug\netcoreapp2.0\Exercise_22.dll
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_22\obj\Debug\netcoreapp2.0\Exercise_22.pdb

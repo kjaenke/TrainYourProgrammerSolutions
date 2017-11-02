@@ -8,3 +8,13 @@ C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_21\obj\Debug\ne
 C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_21\obj\Debug\netcoreapp2.0\Exercise_21.AssemblyInfo.cs
 C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_21\obj\Debug\netcoreapp2.0\Exercise_21.dll
 C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_21\obj\Debug\netcoreapp2.0\Exercise_21.pdb
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_21\bin\Debug\netcoreapp2.0\Exercise_21.deps.json
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_21\bin\Debug\netcoreapp2.0\Exercise_21.runtimeconfig.json
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_21\bin\Debug\netcoreapp2.0\Exercise_21.runtimeconfig.dev.json
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_21\bin\Debug\netcoreapp2.0\Exercise_21.dll
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_21\bin\Debug\netcoreapp2.0\Exercise_21.pdb
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_21\obj\Debug\netcoreapp2.0\Exercise_21.csproj.CoreCompileInputs.cache
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_21\obj\Debug\netcoreapp2.0\Exercise_21.AssemblyInfoInputs.cache
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_21\obj\Debug\netcoreapp2.0\Exercise_21.AssemblyInfo.cs
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_21\obj\Debug\netcoreapp2.0\Exercise_21.dll
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_21\obj\Debug\netcoreapp2.0\Exercise_21.pdb

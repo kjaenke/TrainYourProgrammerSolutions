@@ -1,0 +1,7 @@
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_75\bin\Debug\Exercise_75.exe.config
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_75\bin\Debug\Exercise_75.exe
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_75\bin\Debug\Exercise_75.pdb
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_75\obj\Debug\Exercise_75.csprojResolveAssemblyReference.cache
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_75\obj\Debug\Exercise_75.csproj.CoreCompileInputs.cache
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_75\obj\Debug\Exercise_75.exe
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_75\obj\Debug\Exercise_75.pdb

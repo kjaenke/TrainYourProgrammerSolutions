@@ -1,0 +1,7 @@
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_72\bin\Debug\Exercise_72.exe.config
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_72\bin\Debug\Exercise_72.exe
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_72\bin\Debug\Exercise_72.pdb
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_72\obj\Debug\Exercise_72.csproj.CoreCompileInputs.cache
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_72\obj\Debug\Exercise_72.exe
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_72\obj\Debug\Exercise_72.pdb
+C:\Users\kjaehnke\projects\_KJaenke\TrainYourProgrammer\Exercise_72\obj\Debug\Exercise_72.csprojResolveAssemblyReference.cache
