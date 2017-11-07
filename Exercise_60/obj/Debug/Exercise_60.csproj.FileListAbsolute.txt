@@ -1,0 +1,6 @@
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_60\bin\Debug\Exercise_60.exe.config
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_60\bin\Debug\Exercise_60.exe
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_60\bin\Debug\Exercise_60.pdb
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_60\obj\Debug\Exercise_60.csproj.CoreCompileInputs.cache
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_60\obj\Debug\Exercise_60.exe
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_60\obj\Debug\Exercise_60.pdb
