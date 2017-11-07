@@ -1,0 +1,15 @@
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_59\bin\Debug\Exercise_59.exe.config
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_59\bin\Debug\Exercise_59.exe
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_59\bin\Debug\Exercise_59.pdb
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_59\obj\Debug\Exercise_59.csprojResolveAssemblyReference.cache
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_59\obj\Debug\MainWindow.g.cs
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_59\obj\Debug\App.g.cs
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_59\obj\Debug\Exercise_59_MarkupCompile.cache
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_59\obj\Debug\Exercise_59_MarkupCompile.lref
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_59\obj\Debug\MainWindow.baml
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_59\obj\Debug\Exercise_59.g.resources
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_59\obj\Debug\Exercise_59.Properties.Resources.resources
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_59\obj\Debug\Exercise_59.csproj.GenerateResource.Cache
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_59\obj\Debug\Exercise_59.csproj.CoreCompileInputs.cache
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_59\obj\Debug\Exercise_59.exe
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_59\obj\Debug\Exercise_59.pdb
