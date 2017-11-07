@@ -55,6 +55,8 @@ namespace Exercise_190
                     case 3: //unten
                         start = new Point(rnd.Next(0, size + 1), size);
                         break;
+                    default:
+                        break;
                 }
 
                 var endside = startside;
@@ -78,6 +80,8 @@ namespace Exercise_190
 
                     case 3: //unten
                         end = new Point(rnd.Next(0, size + 1), size);
+                        break;
+                    default:
                         break;
                 }
 

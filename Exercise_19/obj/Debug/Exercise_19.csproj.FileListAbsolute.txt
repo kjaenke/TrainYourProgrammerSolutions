@@ -4,3 +4,4 @@ C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_19\bin\
 C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_19\obj\Debug\Exercise_19.csproj.CoreCompileInputs.cache
 C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_19\obj\Debug\Exercise_19.exe
 C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_19\obj\Debug\Exercise_19.pdb
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_19\obj\Debug\Exercise_19.csprojResolveAssemblyReference.cache

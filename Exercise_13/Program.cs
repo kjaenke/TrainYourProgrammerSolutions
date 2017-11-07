@@ -67,6 +67,8 @@
                         WriteLine("JACKPOTT");
                         _six++;
                         break;
+                    default:
+                        break;
                 }
                 _runs++;
             }
