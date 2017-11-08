@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace Exercise_18
+﻿namespace Exercise_18
 {
+    using System;
+
     public static class Program
     {
         public static void Main()
@@ -12,7 +12,7 @@ namespace Exercise_18
             var b = int.Parse(Console.ReadLine());
             Console.Write("Niederschlag im Juni  :     ");
             var c = int.Parse(Console.ReadLine());
-            Console.Write($"Durchschnitt:               {(double)(a+b+c) / 3}");
+            Console.Write($"Durchschnitt:               {(double) (a + b + c) / 3}");
             Console.Read();
         }
     }

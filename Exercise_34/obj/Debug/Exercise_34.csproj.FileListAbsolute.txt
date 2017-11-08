@@ -1,0 +1,6 @@
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_34\bin\Debug\Exercise_34.exe.config
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_34\bin\Debug\Exercise_34.exe
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_34\bin\Debug\Exercise_34.pdb
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_34\obj\Debug\Exercise_34.csproj.CoreCompileInputs.cache
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_34\obj\Debug\Exercise_34.exe
+C:\Users\kjaehnke\projects\KJaenke\TrainYourProgrammerSolutions\Exercise_34\obj\Debug\Exercise_34.pdb

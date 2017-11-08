@@ -1,7 +1,6 @@
-﻿using System;
-
-namespace Exercise_24
+﻿namespace Exercise_24
 {
+    using System;
     using System.Collections.Generic;
     using System.Linq;
 
@@ -28,9 +27,9 @@ namespace Exercise_24
             do
             {
                 countTrys++;
-                int number = numbers.Get();
+                var number = numbers.Get();
                 Console.WriteLine($"{countTrys}. Versuch: {number}");
-                string userInput = Console.ReadLine();
+                var userInput = Console.ReadLine();
                 switch (userInput.ToLower())
                 {
                     case "r":
@@ -48,7 +47,6 @@ namespace Exercise_24
                         Console.WriteLine("War wohl falsch.");
                         break;
                 }
-
             } while (!win);
             Console.Read();
         }
@@ -64,10 +62,10 @@ namespace Exercise_24
 
         private static int Get(this int[] array)
         {
-            Random r = new Random();
+            var r = new Random();
             while (true)
             {
-                int number = r.Next(array.First(), array.Last());
+                var number = r.Next(array.First(), array.Last());
                 if (array.Contains(number))
                 {
                     return number;

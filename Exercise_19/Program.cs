@@ -2,15 +2,15 @@
 {
     using System;
 
-    static class Program
+    internal static class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Console.WriteLine("Geben Sie den Gesamtbetrag ein:");
-            decimal sum = decimal.Parse(Console.ReadLine());
+            var sum = decimal.Parse(Console.ReadLine());
             if (sum >= 10)
             {
-                Console.WriteLine($"Discountpreis: {sum -(sum / 100 * 10)}");
+                Console.WriteLine($"Discountpreis: {sum - sum / 100 * 10}");
                 Console.Read();
             }
             else

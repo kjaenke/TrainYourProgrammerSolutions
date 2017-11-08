@@ -1,10 +1,8 @@
-﻿// ReSharper disable CompareOfFloatsByEqualityOperator
-namespace Exercise_190
+﻿namespace Exercise_190
 {
     using System;
     using System.Collections.Generic;
     using System.Linq;
-    using System.Threading;
     using System.Windows;
     using System.Windows.Media;
     using System.Windows.Shapes;
@@ -206,7 +204,7 @@ namespace Exercise_190
         {
             var i = (Intersection) obj;
 
-            return i != null && (Point == i.Point && (FirstLine == i.FirstLine || FirstLine == i.SecondLine));
+            return i != null && Point == i.Point && (FirstLine == i.FirstLine || FirstLine == i.SecondLine);
         }
 
         public override int GetHashCode()

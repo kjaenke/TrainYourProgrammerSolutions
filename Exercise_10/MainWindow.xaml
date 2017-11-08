@@ -5,15 +5,21 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Exercise_10"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="MainWindow" Height="350" Width="329.045">
     <Window.Resources>
         <local:AmpelstatusConverter x:Key="StateToColorConverter" />
     </Window.Resources>
     <Grid>
         <StackPanel>
-            <TextBox Height="25" TextAlignment="Center" Name="ZustandTextBox" />
+            <TextBox Height="25"
+                     TextAlignment="Center"
+                     Name="StatusInputBox" />
         </StackPanel>
-        <Ellipse Height="250" Margin="0,20,0,0"
-                 Fill="{Binding Path=Text,ElementName=ZustandTextBox, Converter={StaticResource ResourceKey=StateToColorConverter}, ConverterParameter=Red;Orange;Green}"/>
+        <Ellipse Height="250"
+                 Margin="0,44,0,25"
+                 Fill="{Binding Path=Text, 
+                                ElementName=StatusInputBox, 
+                                Converter={StaticResource ResourceKey=StateToColorConverter}, 
+                                ConverterParameter=Red;Orange;Green}" />
     </Grid>
 </Window>

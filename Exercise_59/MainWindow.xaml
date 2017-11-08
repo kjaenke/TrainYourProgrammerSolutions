@@ -8,8 +8,8 @@
         Title="MainWindow" Width="525"
         SizeToContent="Height">
     <StackPanel>
-        <Label Content="Wählen Sie ihr Geburtsdatum"/>
-        <DatePicker Name="Birthdate" SelectedDateChanged="Birthdate_OnSelectedDateChanged"/>
-        <Label Name="Description"/>
+        <Label Content="Wählen Sie ihr Geburtsdatum" />
+        <DatePicker Name="Birthdate" SelectedDateChanged="Birthdate_OnSelectedDateChanged" />
+        <Label Name="Description" />
     </StackPanel>
 </Window>

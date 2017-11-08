@@ -6,7 +6,7 @@
     {
         private static void Main()
         {
-            for (var i = 99; i > 0; i-- )
+            for (var i = 99; i > 0; i--)
             {
                 Sing(i);
             }
@@ -25,7 +25,7 @@
             {
                 Console.Write("s");
             }
-            Console.WriteLine( " of beer.");
+            Console.WriteLine(" of beer.");
             Console.Write($"Take one down and pass it around, {numberOfBeer - 1} bottle");
             if (numberOfBeer != 1)
             {
@@ -36,6 +36,3 @@
         }
     }
 }
-
-
-

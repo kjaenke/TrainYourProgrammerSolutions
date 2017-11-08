@@ -1,5 +1,4 @@
-﻿// ReSharper disable PossibleNullReferenceException
-namespace Exercise_10
+﻿namespace Exercise_10
 {
     using System;
     using System.Globalization;
@@ -31,7 +30,7 @@ namespace Exercise_10
                     solidColorBrush.Color = (Color) ConvertFromString("White");
                     break;
             }
-                                                      
+
             return solidColorBrush;
         }
 
